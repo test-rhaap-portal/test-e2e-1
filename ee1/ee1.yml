@@ -18,9 +18,6 @@ dependencies:
 
   galaxy:
     collections:
-      - name: ansible.mcp_builder
-        version: "1.0.3"
-        source: private_hub_validated
       - name: my_ns.my_col
         version: "1.0.1"
         source: private_hub_published
